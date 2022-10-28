@@ -10,7 +10,7 @@ just the basic c programs taught in cs
 - > ~~selection sort~~ ✅
 - > ~~merge sort~~ ✅
 - > ~~quick sort~~ ✅
-- 
+
 # Polnomial addition and multiplication
 - > ~~polynomial addition~~ ✅
 - > polynomial multiplication
