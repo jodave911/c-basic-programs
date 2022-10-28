@@ -12,6 +12,8 @@ just the basic c programs taught in cs
 - > ~~quick sort~~ ✅
 - 
 # Polnomial addition and multiplication
+- > ~~polynomial addition~~ ✅
+- > polynomial multiplication
 
 # Sparse Matrix
 
